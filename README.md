@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayitasaha40&label=Profile%20views&color=0e75b6&style=flat" alt="jayitasaha40" /> </p>
 
-- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **AI/ML, Flask, Automation**
+- 💬 Ask me about **Java, DSA, Spring Boot, LLD**
 
 - 📫 How to reach me **jayitasaha40@gmail.com**
 
